@@ -15,7 +15,7 @@
      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="">
       <img src="https://img.shields.io/badge/React-040404?style=for-the-badge&logo=react&logoColor=61DAFB" alt="">
        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="">
-    <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="">
+    <img src="https://img.shields.io/badge/spring-404D59?style=for-the-badge" alt="">
 </div>
 
 <br>
