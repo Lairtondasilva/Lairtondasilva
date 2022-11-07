@@ -14,12 +14,9 @@
      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="">
      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="">
       <img src="https://img.shields.io/badge/React-040404?style=for-the-badge&logo=react&logoColor=61DAFB" alt="">
-       <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="">
     <img src="https://img.shields.io/badge/spring-404D59?style=for-the-badge" alt="">
 </div>
 
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lairtondasilva&layout=compact&theme=apprentice&line_height=32px)](https://github.com/anuraghazra/github-readme-stats)
-
-### Apaixonado pela programação, atualmente realizando o bootcamp da Generation (Desenvolvedor Java Jr)
